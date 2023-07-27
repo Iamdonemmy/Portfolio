@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project": "https://kulture-dun.vercel.app/",
+      "image": "/kulture.svg",
+      "group": "metric",
+      "title": "Kulture",
+      "source": "#",
+      "desc": "Next Kulture WebApp aims at a user-friendly e-commerce software with a reliable payment platform that brings producers and artists together which allows uploading and buying of music beats locally.",
+      "stacks": ["Next js", "React", "CSS", "Vercel"]
+    },
+    {
+      "id": 2,
+      "project": "https://buddy-rsd8.vercel.app/",
+      "image": "/buddy.svg",
+      "group": "metric",
+      "title": "Buddy",
+      "source": "#",
+      "desc": "BUddy software allows you to connect with family, friends and partner across the globe",
+      "stacks": ["React", "CSS", "Vercel"]
+    },
+    {
+      "id": 3,
+      "project": "https://myportfolio-chi-beige.vercel.app/",
+      "image": "/portfolio.png",
+      "group": "portfolio",
+      "title": "Portfolio",
+      "source": "#",
+      "desc": "A portfolio project, which houses all projects, resumes, and social links to reach tobby, the project has a project section, an about myself section, contact me.",
+      "stacks": ["Html", "CSS", "JavaScript", "React", "Vercel"]
+    },
+    {
+      "id": 4,
+      "project": "https://tobby8629.github.io/Capstone-project/index.html",
+      "image": "/tesla.png",
+      "group": "others",
+      "title": "Tesla",
+      "source": "#",
+      "desc": "Tesla website, a website where you can order varities of cars.",
+      "stacks": ["Html", "Style component", "JavaScript", "Redux", "React"]
+    },
+    {
+      "id": 5,
+      "project": "https://tobby8629.github.io/Todo_list/dist/",
+      "image": "/todolist.png",
+      "group": "utility",
+      "title": "Todo List",
+      "source": "#",
+      "desc": "Todo_list is a project built with webpack with alot features such as adding and removing from the todo-list, dragable event, clear completed tasks",
+      "stacks": ["Html", "CSS", "Webpack", "JavaScript"]
+    },
+    {
+      "id": 6,
+      "project": "https://kulture-dun.vercel.app/",
+      "image": "/Kulturecheckout.png",
+      "group": "others",
+      "title": "Kulture Checkout page",
+      "source": "#",
+      "desc": "Checkout page is  the  page you make advacement on payment after selecting your prefered beat.",
+      "stacks": ["React", "CSS", "Next", "Vercel"]
+    }
+  ]
+}
